@@ -1,6 +1,6 @@
 # 🛒 Quick Commerce Data Analysis
 
-![Power BI Dashboard](image_afbc84.png)
+![Power BI Dashboard](Dashboard.png)
 
 ## 📌 Project Overview
 This project provides an end-to-end data analysis of Quick Commerce operations. The goal is to extract meaningful business insights regarding sales performance, order trends, and operational efficiency using a comprehensive data stack.
