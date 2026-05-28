@@ -32,4 +32,4 @@ This project provides an end-to-end data analysis of Quick Commerce operations. 
 4. **Power BI Dashboard:** Download the `QuickCommerce Power-BI.pbit` file and open it in Power BI Desktop to interact with the visualizations.
 
 ---
-*This project was created to demonstrate full-stack data analysis skills.*
+
